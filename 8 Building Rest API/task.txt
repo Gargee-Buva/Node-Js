@@ -1,3 +1,5 @@
+//used mockaroo.com for creating fake users
+
 REST API - JSON
 
 GET/users - list all users - html document render
